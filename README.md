@@ -1,3 +1,7 @@
+**This repository fork is only valid as long as this issue is unresolved**
+
+https://github.com/epartment/nova-dependency-container/issues/61
+
 # Nova Field Dependency Container
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/epartment/nova-dependency-container.svg)](https://packagist.org/packages/epartment/nova-dependency-container)
