@@ -1,4 +1,4 @@
-**This repository fork is only valid as long as this issue is unresolved**
+**This repository fork is only valid as long as this issue is unresolved:**
 
 https://github.com/epartment/nova-dependency-container/issues/61
 
